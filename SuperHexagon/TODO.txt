@@ -1,0 +1,1 @@
+Fix the camera rotator bug (Fixed X axis)
